@@ -5,7 +5,7 @@
 <p align="center"><strong>价值源自分享</strong></p>
 
 <p align="center">
-   <a href="#" rel="nofollow" style="color:red;" >表单在线演示</a>
+   <a href="https://meystack.github.io/layui-form-design/" rel="nofollow" style="color:red;" >表单在线演示</a>
 	<a href="https://www.swiftadmin.net" target="_blank">SAPHP官方平台</a> 
 </p>
 
